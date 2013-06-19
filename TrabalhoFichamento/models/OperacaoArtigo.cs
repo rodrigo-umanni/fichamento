@@ -42,5 +42,37 @@ namespace TrabalhoFichamento.models
                 reader.Close();
             }
         }
+
+        public List<Artigo> listarNomePeriodicos()
+        {
+            List<Artigo> Lista = new List<Artigo>();
+            SqlDataReader reader = null;
+            try
+            {
+                string select = @"select a.obra_id_obra, a.nome_periodico_evento from Artigo a,Obra o where
+                a.obra_id_obra = o.id_obra;";
+                SqlCommand cmd = new SqlCommand(select, this.connection.Conex);
+                reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    Artigo a = new Artigo();
+                    a.obra_id_obra = reader.GetInt32(0);
+                    a.periodico = reader.GetString(1);
+
+                    Lista.Add(a);
+                }
+
+                return Lista;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Nenhum Artigo encontrado");
+                return Lista;
+            }
+            finally
+            {
+                reader.Close();
+            }
+        }
     }
 }

@@ -163,7 +163,7 @@ namespace TrabalhoFichamento
             CompletarAutoresObra();
             CompletaIssn();
             CompletaEditora();
-            //CompletaEvento();
+            CompletaEvento();
             CompletaCurso();
         }
 
@@ -221,6 +221,17 @@ namespace TrabalhoFichamento
             c.DataSource = lista;
             c.DisplayMember = "curso";
             c.ValueMember = "obra_id_obra";
+        }
+
+        private void CompletaEvento() {
+            models.OperacaoArtigo m = new models.OperacaoArtigo();
+            List<Artigo> lista = m.listarNomePeriodicos();
+
+            ComboBox c = comboBoxEvento;
+            c.DataSource = lista;
+            c.DisplayMember = "periodico";
+            c.ValueMember = "obra_id_obra";
+            
         }
     }
 }
