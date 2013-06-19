@@ -159,6 +159,31 @@ namespace TrabalhoFichamento
         private void frmVerificarObra_Load(object sender, EventArgs e)
         {
             textBoxResultado.Text = ((dataGridView1.Rows.Count) - 1).ToString();
+            CompletaTituloObra();
+        }
+
+        private void CompletaTituloObra()
+        {
+            models.OperacaoObra m = new models.OperacaoObra();
+            List<Obra> list = m.listarTodos();
+
+            comboBoxTitulo.DataSource = list;
+            comboBoxTitulo.DisplayMember = "titulo";
+            comboBoxTitulo.ValueMember = "id_obra";
+            
+        }
+
+        private void CompletarAutoresObra()
+        {
+            models.OperacaoAutor m = new models.OperacaoAutor();
+            List<Autor> autores = m.listarTodos();
+
+            ComboBox c = comboBoxAutor;
+            c.DataSource = autores;
+            c.DisplayMember = "nome";
+            c.ValueMember = "id_autor_de_obra";
+
+
         }
     }
 }
