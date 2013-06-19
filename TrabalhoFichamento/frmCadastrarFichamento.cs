@@ -345,7 +345,15 @@ namespace TrabalhoFichamento
 
 
             models.OperacaoFichamento of = new models.OperacaoFichamento();
-            of.gravar(fich);
+            if (of.gravar(fich) == 1)
+            {
+               
+                models.OperacaoPalavraChave operacao_obra = new models.OperacaoPalavraChave();
+                foreach(String s in palavras_chave){
+                    operacao_obra.gravar(s);
+                }
+                MessageBox.Show("Inserido com sucesso");
+            };  
             //MessageBox.Show(projeto_combobox.ValueMember);
             //usar metodo para remover palavras chave vazias
 
