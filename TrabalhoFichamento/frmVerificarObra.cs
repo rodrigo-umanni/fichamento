@@ -161,7 +161,7 @@ namespace TrabalhoFichamento
             textBoxResultado.Text = ((dataGridView1.Rows.Count) - 1).ToString();
             CompletaTituloObra();
             CompletarAutoresObra();
-            //CompletaIssn();
+            CompletaIssn();
             CompletaEditora();
             //CompletaEvento();
             //CompletaCurso();
@@ -200,6 +200,17 @@ namespace TrabalhoFichamento
             c.DisplayMember = "editora";
             c.ValueMember = "id_obra_livro";
             
+        }
+
+        private void CompletaIssn() {
+            models.OperacaoArtigo m = new models.OperacaoArtigo();
+            List<Artigo> lista = m.listarTodos();
+
+            ComboBox c = comboBoxISSN;
+            c.DataSource = lista;
+            c.DisplayMember = "ISBN_ISSN";
+            c.ValueMember = "obra_id_obra";
+        
         }
     }
 }
