@@ -240,7 +240,7 @@ namespace TrabalhoFichamento
         {
             btnAdd2.Visible = false;
             btnAdd3.Visible = true;
-            btnmenos1.Visible = true;
+            btnmenos1.Visible = false;
             textBoxPChave3.Visible = true;
             panel1.Location = new Point(0, 315);
         }
@@ -250,6 +250,7 @@ namespace TrabalhoFichamento
             btnAdd2.Visible = true;
             btnAdd3.Visible = false;
             textBoxPChave3.Visible = false;
+            btnmenos1.Visible = true;
             panel1.Location = new Point(0, 289);
         }
 
@@ -257,7 +258,7 @@ namespace TrabalhoFichamento
         {
             btnAdd3.Visible = false;
             btnAdd4.Visible = true;
-            btnmenos2.Visible = true;
+            btnmenos2.Visible = false;
             textBoxPChave4.Visible = true;
             panel1.Location = new Point(0, 341);
         }
@@ -267,13 +268,14 @@ namespace TrabalhoFichamento
             btnAdd3.Visible = true;
             btnAdd4.Visible = false;
             textBoxPChave4.Visible = false;
+            btnmenos2.Visible = true;
             panel1.Location = new Point(0, 315);
         }
 
         private void btnAdd4_Click(object sender, EventArgs e)
         {
-            btnmenos2.Visible = true;
-            btnAdd4.Visible = true;
+            btnmenos3.Visible = false;
+            btnAdd4.Visible = false;
             textBoxPChave5.Visible = true;
             panel1.Location = new Point(0, 367);
         }
@@ -281,6 +283,7 @@ namespace TrabalhoFichamento
         {
             btnAdd4.Visible = true;
             textBoxPChave5.Visible = false;
+            btnmenos3.Visible = true;
             panel1.Location = new Point(0, 341);
         }
 
