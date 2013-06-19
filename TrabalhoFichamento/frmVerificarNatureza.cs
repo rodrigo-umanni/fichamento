@@ -118,6 +118,7 @@ namespace TrabalhoFichamento
         }
         private void frmVerificarNatureza_Load(object sender, EventArgs e)
         {
+            radioButtonAtivado.Checked = true;
             // TODO: This line of code loads data into the 'fICHAMENTODataSet.Natureza' table. You can move, or remove it, as needed.
             this.naturezaTableAdapter.Fill(this.fICHAMENTODataSet.Natureza);
             
@@ -144,18 +145,18 @@ namespace TrabalhoFichamento
                 DataGridViewRow row = this.dataGridView1.Rows[e.RowIndex];
                 textBoxCod.Text = row.Cells["id"].Value.ToString();
                 textBoxDescricao2.Text = row.Cells["descricao"].Value.ToString();
-
+                radioButtonAtivado2.Checked = true;
             }
         }
 
         //Form Alterar
         private void btnCancelar2_Click(object sender, EventArgs e)
         {
-            DialogResult d = MessageBox.Show("Você deseja cancelar a alteração?", "Aviso", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button2);
+            DialogResult d = MessageBox.Show("Você deseja cancelar a cadastro?", "Aviso", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button2);
 
             if (d.ToString() == "Yes")
             {
-                this.Close();
+                Application.Exit();
             }
             else
             {

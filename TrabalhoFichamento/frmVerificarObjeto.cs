@@ -146,6 +146,7 @@ namespace TrabalhoFichamento
                 DataGridViewRow row = this.dataGridView1.Rows[e.RowIndex];
                 textBoxCod.Text = row.Cells["id"].Value.ToString();
                 textBoxDescricao2.Text = row.Cells["descricao"].Value.ToString();
+                radioButtonAtivado2.Checked = true;
             }
         }
         
