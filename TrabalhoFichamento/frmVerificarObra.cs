@@ -160,6 +160,7 @@ namespace TrabalhoFichamento
         {
             textBoxResultado.Text = ((dataGridView1.Rows.Count) - 1).ToString();
             CompletaTituloObra();
+            CompletarAutoresObra();
         }
 
         private void CompletaTituloObra()
