@@ -183,7 +183,7 @@ namespace TrabalhoFichamento
         {
             if (!campos_validos())
             {
-                MessageBox.Show("Preencha todos os campos");
+                MessageBox.Show("Os campos(*) são obrigatórios");
             }
             else {
                 DialogResult d = MessageBox.Show("Confirma o cadastro?", "Aviso", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button2);

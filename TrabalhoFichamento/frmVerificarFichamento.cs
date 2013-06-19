@@ -262,11 +262,42 @@ namespace TrabalhoFichamento
 
         private void btnConfirmar2_Click(object sender, EventArgs e)
         {
+            if (textBoxAutorF.Text != null && textBoxAutorF.Text.Equals("") &&
+                (comboBoxObra2.Text != null) &&
+                (resenha_text_box.Text != null || resenha_text_box.Equals("")))
+            {
+                DialogResult d = MessageBox.Show("Você confirma a alateração?", "Aviso", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button2);
 
+                if (d.ToString() == "Yes")
+                {
+                    Fichamento fichamento = new Fichamento();
+                    fichamento.IdFichamento = Convert.ToInt32(textBoxCod.Text);
+                    fichamento.ObraIdObra = Convert.ToInt32(comboBoxObra2.ValueMember);
+                    fichamento.IdNatureza = Convert.ToInt32(natureza_combobox.ValueMember);
+                    fichamento.IdObjeto = Convert.ToInt32(objeto_combobox.ValueMember);
+                    fichamento.IdFormaEstudo = Convert.ToInt32(forma_de_estudo_combobox.ValueMember);
+                    fichamento.IdModalidade = Convert.ToInt32(modalidade_combobox.ValueMember);
+                    fichamento.Resenha = resenha_text_box.Text;
+                    fichamento.Citacoes = citacoes_text_box.Text;
+                    fichamento.Resumo = resumo_text_box.Text;
+                    
+
+                    models.OperacaoFichamento f = new models.OperacaoFichamento();
+                    f.alterar(fichamento);
+                    this.Close();
+                }
+                else
+
+                    return;
+            }
+            else
+                MessageBox.Show("Defina pelo menos um campo de pesquisa");
+
+        }
         }
 
                 
 
 
     }
-}
+

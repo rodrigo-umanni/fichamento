@@ -31,6 +31,7 @@ namespace TrabalhoFichamento
 
                     models.OperacaoModalidade m = new models.OperacaoModalidade();
                     m.gravar(modalidade);
+                    this.Close();
                 }
                 else
                 {
@@ -56,6 +57,11 @@ namespace TrabalhoFichamento
             {
                 return;
             }
+        }
+
+        private void frmCadastrarModalidade_Load(object sender, EventArgs e)
+        {
+            textBoxDescricao.Focus();
         }
     }
 }
