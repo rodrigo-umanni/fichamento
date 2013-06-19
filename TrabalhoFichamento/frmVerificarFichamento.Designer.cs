@@ -105,6 +105,7 @@
             this.textBoxResultado = new System.Windows.Forms.TextBox();
             this.labelResultado = new System.Windows.Forms.Label();
             this.btnCadastrar = new System.Windows.Forms.Button();
+            this.textBoxCod = new System.Windows.Forms.TextBox();
             this.statusStrip1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
@@ -134,7 +135,7 @@
             // toolStripStatusLabel1
             // 
             this.toolStripStatusLabel1.Name = "toolStripStatusLabel1";
-            this.toolStripStatusLabel1.Size = new System.Drawing.Size(104, 17);
+            this.toolStripStatusLabel1.Size = new System.Drawing.Size(116, 17);
             this.toolStripStatusLabel1.Text = "Verificar Fichamento";
             // 
             // labelTitle
@@ -167,7 +168,7 @@
             // menuPrincipalToolStripMenuItem
             // 
             this.menuPrincipalToolStripMenuItem.Name = "menuPrincipalToolStripMenuItem";
-            this.menuPrincipalToolStripMenuItem.Size = new System.Drawing.Size(87, 20);
+            this.menuPrincipalToolStripMenuItem.Size = new System.Drawing.Size(99, 20);
             this.menuPrincipalToolStripMenuItem.Text = "Menu Principal";
             this.menuPrincipalToolStripMenuItem.Click += new System.EventHandler(this.menuPrincipalToolStripMenuItem_Click);
             // 
@@ -177,20 +178,20 @@
             this.verificarProjetoToolStripMenuItem,
             this.cadastrarProjetoToolStripMenuItem});
             this.projetoToolStripMenuItem.Name = "projetoToolStripMenuItem";
-            this.projetoToolStripMenuItem.Size = new System.Drawing.Size(54, 20);
+            this.projetoToolStripMenuItem.Size = new System.Drawing.Size(57, 20);
             this.projetoToolStripMenuItem.Text = "Projeto";
             // 
             // verificarProjetoToolStripMenuItem
             // 
             this.verificarProjetoToolStripMenuItem.Name = "verificarProjetoToolStripMenuItem";
-            this.verificarProjetoToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.verificarProjetoToolStripMenuItem.Size = new System.Drawing.Size(165, 22);
             this.verificarProjetoToolStripMenuItem.Text = "Verificar Projeto";
             this.verificarProjetoToolStripMenuItem.Click += new System.EventHandler(this.verificarProjetoToolStripMenuItem_Click);
             // 
             // cadastrarProjetoToolStripMenuItem
             // 
             this.cadastrarProjetoToolStripMenuItem.Name = "cadastrarProjetoToolStripMenuItem";
-            this.cadastrarProjetoToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.cadastrarProjetoToolStripMenuItem.Size = new System.Drawing.Size(165, 22);
             this.cadastrarProjetoToolStripMenuItem.Text = "Cadastrar Projeto";
             this.cadastrarProjetoToolStripMenuItem.Click += new System.EventHandler(this.cadastrarProjetoToolStripMenuItem_Click);
             // 
@@ -200,20 +201,20 @@
             this.verificarFichamentoToolStripMenuItem,
             this.cadastrarFichamentoToolStripMenuItem});
             this.fichamentoToolStripMenuItem.Name = "fichamentoToolStripMenuItem";
-            this.fichamentoToolStripMenuItem.Size = new System.Drawing.Size(74, 20);
+            this.fichamentoToolStripMenuItem.Size = new System.Drawing.Size(82, 20);
             this.fichamentoToolStripMenuItem.Text = "Fichamento";
             // 
             // verificarFichamentoToolStripMenuItem
             // 
             this.verificarFichamentoToolStripMenuItem.Name = "verificarFichamentoToolStripMenuItem";
-            this.verificarFichamentoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.verificarFichamentoToolStripMenuItem.Size = new System.Drawing.Size(190, 22);
             this.verificarFichamentoToolStripMenuItem.Text = "Verificar Fichamento";
             this.verificarFichamentoToolStripMenuItem.Click += new System.EventHandler(this.verificarFichamentoToolStripMenuItem_Click);
             // 
             // cadastrarFichamentoToolStripMenuItem
             // 
             this.cadastrarFichamentoToolStripMenuItem.Name = "cadastrarFichamentoToolStripMenuItem";
-            this.cadastrarFichamentoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.cadastrarFichamentoToolStripMenuItem.Size = new System.Drawing.Size(190, 22);
             this.cadastrarFichamentoToolStripMenuItem.Text = "Cadastrar Fichamento";
             this.cadastrarFichamentoToolStripMenuItem.Click += new System.EventHandler(this.cadastrarFichamentoToolStripMenuItem_Click);
             // 
@@ -223,20 +224,20 @@
             this.verficarObraToolStripMenuItem,
             this.cadastrarObraToolStripMenuItem});
             this.obraToolStripMenuItem.Name = "obraToolStripMenuItem";
-            this.obraToolStripMenuItem.Size = new System.Drawing.Size(43, 20);
+            this.obraToolStripMenuItem.Size = new System.Drawing.Size(45, 20);
             this.obraToolStripMenuItem.Text = "Obra";
             // 
             // verficarObraToolStripMenuItem
             // 
             this.verficarObraToolStripMenuItem.Name = "verficarObraToolStripMenuItem";
-            this.verficarObraToolStripMenuItem.Size = new System.Drawing.Size(149, 22);
+            this.verficarObraToolStripMenuItem.Size = new System.Drawing.Size(153, 22);
             this.verficarObraToolStripMenuItem.Text = "Verificar Obra";
             this.verficarObraToolStripMenuItem.Click += new System.EventHandler(this.verficarObraToolStripMenuItem_Click);
             // 
             // cadastrarObraToolStripMenuItem
             // 
             this.cadastrarObraToolStripMenuItem.Name = "cadastrarObraToolStripMenuItem";
-            this.cadastrarObraToolStripMenuItem.Size = new System.Drawing.Size(149, 22);
+            this.cadastrarObraToolStripMenuItem.Size = new System.Drawing.Size(153, 22);
             this.cadastrarObraToolStripMenuItem.Text = "Cadastrar Obra";
             this.cadastrarObraToolStripMenuItem.Click += new System.EventHandler(this.cadastrarObraToolStripMenuItem_Click);
             // 
@@ -246,20 +247,20 @@
             this.verificarAutorToolStripMenuItem,
             this.cadastrarAutorToolStripMenuItem});
             this.autorToolStripMenuItem.Name = "autorToolStripMenuItem";
-            this.autorToolStripMenuItem.Size = new System.Drawing.Size(46, 20);
+            this.autorToolStripMenuItem.Size = new System.Drawing.Size(49, 20);
             this.autorToolStripMenuItem.Text = "Autor";
             // 
             // verificarAutorToolStripMenuItem
             // 
             this.verificarAutorToolStripMenuItem.Name = "verificarAutorToolStripMenuItem";
-            this.verificarAutorToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.verificarAutorToolStripMenuItem.Size = new System.Drawing.Size(157, 22);
             this.verificarAutorToolStripMenuItem.Text = "Verificar autor";
             this.verificarAutorToolStripMenuItem.Click += new System.EventHandler(this.verificarAutorToolStripMenuItem_Click);
             // 
             // cadastrarAutorToolStripMenuItem
             // 
             this.cadastrarAutorToolStripMenuItem.Name = "cadastrarAutorToolStripMenuItem";
-            this.cadastrarAutorToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.cadastrarAutorToolStripMenuItem.Size = new System.Drawing.Size(157, 22);
             this.cadastrarAutorToolStripMenuItem.Text = "Cadastrar Autor";
             this.cadastrarAutorToolStripMenuItem.Click += new System.EventHandler(this.cadastrarAutorToolStripMenuItem_Click);
             // 
@@ -271,41 +272,41 @@
             this.verificarFormaDeEstudoToolStripMenuItem,
             this.verificarObjetoToolStripMenuItem});
             this.outrosToolStripMenuItem.Name = "outrosToolStripMenuItem";
-            this.outrosToolStripMenuItem.Size = new System.Drawing.Size(52, 20);
+            this.outrosToolStripMenuItem.Size = new System.Drawing.Size(55, 20);
             this.outrosToolStripMenuItem.Text = "Outros";
             // 
             // verificarModalidadeToolStripMenuItem
             // 
             this.verificarModalidadeToolStripMenuItem.Name = "verificarModalidadeToolStripMenuItem";
-            this.verificarModalidadeToolStripMenuItem.Size = new System.Drawing.Size(197, 22);
+            this.verificarModalidadeToolStripMenuItem.Size = new System.Drawing.Size(209, 22);
             this.verificarModalidadeToolStripMenuItem.Text = "Verificar Modalidade";
             this.verificarModalidadeToolStripMenuItem.Click += new System.EventHandler(this.verificarModalidadeToolStripMenuItem_Click);
             // 
             // verificarNeturezaToolStripMenuItem
             // 
             this.verificarNeturezaToolStripMenuItem.Name = "verificarNeturezaToolStripMenuItem";
-            this.verificarNeturezaToolStripMenuItem.Size = new System.Drawing.Size(197, 22);
+            this.verificarNeturezaToolStripMenuItem.Size = new System.Drawing.Size(209, 22);
             this.verificarNeturezaToolStripMenuItem.Text = "Verificar Natureza";
             this.verificarNeturezaToolStripMenuItem.Click += new System.EventHandler(this.verificarNeturezaToolStripMenuItem_Click);
             // 
             // verificarFormaDeEstudoToolStripMenuItem
             // 
             this.verificarFormaDeEstudoToolStripMenuItem.Name = "verificarFormaDeEstudoToolStripMenuItem";
-            this.verificarFormaDeEstudoToolStripMenuItem.Size = new System.Drawing.Size(197, 22);
+            this.verificarFormaDeEstudoToolStripMenuItem.Size = new System.Drawing.Size(209, 22);
             this.verificarFormaDeEstudoToolStripMenuItem.Text = "Verificar Forma de Estudo";
             this.verificarFormaDeEstudoToolStripMenuItem.Click += new System.EventHandler(this.verificarFormaDeEstudoToolStripMenuItem_Click);
             // 
             // verificarObjetoToolStripMenuItem
             // 
             this.verificarObjetoToolStripMenuItem.Name = "verificarObjetoToolStripMenuItem";
-            this.verificarObjetoToolStripMenuItem.Size = new System.Drawing.Size(197, 22);
+            this.verificarObjetoToolStripMenuItem.Size = new System.Drawing.Size(209, 22);
             this.verificarObjetoToolStripMenuItem.Text = "Verificar Objeto";
             this.verificarObjetoToolStripMenuItem.Click += new System.EventHandler(this.verificarObjetoToolStripMenuItem_Click);
             // 
             // sairToolStripMenuItem
             // 
             this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
-            this.sairToolStripMenuItem.Size = new System.Drawing.Size(37, 20);
+            this.sairToolStripMenuItem.Size = new System.Drawing.Size(38, 20);
             this.sairToolStripMenuItem.Text = "Sair";
             this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
             // 
@@ -406,6 +407,7 @@
             // 
             // panel1
             // 
+            this.panel1.Controls.Add(this.textBoxCod);
             this.panel1.Controls.Add(this.btnAddObjeto);
             this.panel1.Controls.Add(this.btnAddForma);
             this.panel1.Controls.Add(this.btnAddModalidade);
@@ -528,7 +530,7 @@
             // toolStripStatusLabel2
             // 
             this.toolStripStatusLabel2.Name = "toolStripStatusLabel2";
-            this.toolStripStatusLabel2.Size = new System.Drawing.Size(98, 17);
+            this.toolStripStatusLabel2.Size = new System.Drawing.Size(108, 17);
             this.toolStripStatusLabel2.Text = "Alterar Fichamento";
             // 
             // panel2
@@ -864,6 +866,14 @@
             this.btnCadastrar.UseVisualStyleBackColor = true;
             this.btnCadastrar.Click += new System.EventHandler(this.btnCadastrar_Click);
             // 
+            // textBoxCod
+            // 
+            this.textBoxCod.Location = new System.Drawing.Point(239, 71);
+            this.textBoxCod.Name = "textBoxCod";
+            this.textBoxCod.Size = new System.Drawing.Size(100, 20);
+            this.textBoxCod.TabIndex = 86;
+            this.textBoxCod.Visible = false;
+            // 
             // frmVerificarFichamento
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -993,5 +1003,6 @@
         private System.Windows.Forms.PictureBox btnAddModalidade;
         private System.Windows.Forms.PictureBox btnAddNatureza;
         private System.Windows.Forms.Button btnCadastrar;
+        private System.Windows.Forms.TextBox textBoxCod;
     }
 }
