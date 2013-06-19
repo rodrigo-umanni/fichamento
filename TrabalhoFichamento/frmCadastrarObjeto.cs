@@ -30,6 +30,7 @@ namespace TrabalhoFichamento
 
                     models.OperacaoObjeto m = new models.OperacaoObjeto();
                     m.gravar(objeto);
+                    this.Close();
                 }
                 else
                 {
@@ -55,6 +56,11 @@ namespace TrabalhoFichamento
             {
                 return;
             }
+        }
+
+        private void frmCadastrarObjeto_Load(object sender, EventArgs e)
+        {
+            textBoxDescricao.Focus();
         }
 
     }
