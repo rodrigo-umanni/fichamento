@@ -7,7 +7,7 @@ namespace TrabalhoFichamento.Entidades
 {
     class Tdm : Obra
     {
-        public int obra_id_obra;
+        public int obra_id_obra { get; set; }
         public String programa { get; set; }
         public String curso { get; set; }
         public String instituicao { get; set; }

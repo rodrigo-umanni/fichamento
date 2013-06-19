@@ -164,7 +164,7 @@ namespace TrabalhoFichamento
             CompletaIssn();
             CompletaEditora();
             //CompletaEvento();
-            //CompletaCurso();
+            CompletaCurso();
         }
 
         private void CompletaTituloObra()
@@ -211,6 +211,16 @@ namespace TrabalhoFichamento
             c.DisplayMember = "ISBN_ISSN";
             c.ValueMember = "obra_id_obra";
         
+        }
+
+        private void CompletaCurso() {
+            models.OperacaoTDM m = new models.OperacaoTDM();
+            List<Entidades.Tdm> lista = m.listarTodos();
+
+            ComboBox c = comboBoxCurso;
+            c.DataSource = lista;
+            c.DisplayMember = "curso";
+            //c.ValueMember = "obra_id_obra";
         }
     }
 }
