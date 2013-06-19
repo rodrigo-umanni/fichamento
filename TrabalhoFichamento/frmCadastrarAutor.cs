@@ -144,6 +144,7 @@ namespace TrabalhoFichamento
               (textBoxNomeAlterar.Text == String.Empty && textBoxNomeAlterar.Text.Trim() == "") &&
               (textBoxCitacao.Text == String.Empty && textBoxCitacao.Text.Trim() == ""))
             {
+
                 MessageBox.Show("Informe os campos obrigatórios");
             }
         }

@@ -11,6 +11,13 @@ namespace TrabalhoFichamento
 {
     public partial class frmCadastrarCapitulo : Form
     {
+        private Capitulo capitulo = null;
+
+        internal Capitulo Capitulo
+        {
+            get { return capitulo; }
+            set { capitulo = value; }
+        }
         public frmCadastrarCapitulo()
         {
             InitializeComponent();

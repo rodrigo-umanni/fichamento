@@ -11,6 +11,15 @@ namespace TrabalhoFichamento
 {
     public partial class frmCadastrarTDM : Form
     {
+        private Entidades.Tdm tdm = null;
+
+        internal Entidades.Tdm Tdm
+        {
+            get { return tdm; }
+            set { tdm = value; }
+        }
+
+
         public frmCadastrarTDM()
         {
             InitializeComponent();

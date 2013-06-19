@@ -76,12 +76,28 @@ namespace TrabalhoFichamento
                     {
                         this.Close();
                         frmCadastrarCapitulo capitulo = new frmCadastrarCapitulo();
+
+                        capitulo.Capitulo = new Capitulo();
+
+                        capitulo.Capitulo.titulo = obra.titulo;
+                        capitulo.Capitulo.subtitulo = obra.subtitulo;
+                        capitulo.Capitulo.local_publicacao = obra.local_publicacao;
+                        capitulo.Capitulo.ano_publicacao = obra.ano_publicacao;
+
                         capitulo.Show();
                     }
                     if (radioButtonTDM.Checked == true)
                     {
                         this.Close();
                         frmCadastrarTDM tdm = new frmCadastrarTDM();
+
+                        tdm.Tdm = new Entidades.Tdm();
+
+                        tdm.Tdm.titulo = obra.titulo;
+                        tdm.Tdm.subtitulo = obra.subtitulo;
+                        tdm.Tdm.local_publicacao = obra.local_publicacao;
+                        tdm.Tdm.ano_publicacao = obra.ano_publicacao;
+
                         tdm.Show();
                     }
                 }
