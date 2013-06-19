@@ -161,6 +161,10 @@ namespace TrabalhoFichamento
             textBoxResultado.Text = ((dataGridView1.Rows.Count) - 1).ToString();
             CompletaTituloObra();
             CompletarAutoresObra();
+            CompletaIssn();
+            CompletaEditora();
+            //CompletaEvento();
+            CompletaCurso();
         }
 
         private void CompletaTituloObra()
@@ -185,6 +189,38 @@ namespace TrabalhoFichamento
             c.ValueMember = "id_autor_de_obra";
 
 
+        }
+
+        private void CompletaEditora() {
+            models.OperacaoLivro m = new models.OperacaoLivro();
+            List<Livro> livros = m.listarTodos();
+
+            ComboBox c = comboBoxEditora;
+            c.DataSource = livros;
+            c.DisplayMember = "editora";
+            c.ValueMember = "id_obra_livro";
+            
+        }
+
+        private void CompletaIssn() {
+            models.OperacaoArtigo m = new models.OperacaoArtigo();
+            List<Artigo> lista = m.listarTodos();
+
+            ComboBox c = comboBoxISSN;
+            c.DataSource = lista;
+            c.DisplayMember = "ISBN_ISSN";
+            c.ValueMember = "obra_id_obra";
+        
+        }
+
+        private void CompletaCurso() {
+            models.OperacaoTDM m = new models.OperacaoTDM();
+            List<Entidades.Tdm> lista = m.listarTodos();
+
+            ComboBox c = comboBoxCurso;
+            c.DataSource = lista;
+            c.DisplayMember = "curso";
+            c.ValueMember = "obra_id_obra";
         }
     }
 }
