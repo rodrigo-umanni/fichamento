@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5B6A99EF-49D1-4699-8F81-E66013800ED1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TrabalhoFichamento</RootNamespace>
+    <AssemblyName>TrabalhoFichamento</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entidades\Artigo.cs" />
+    <Compile Include="Entidades\Autor.cs" />
+    <Compile Include="Entidades\Capitulo.cs" />
+    <Compile Include="Entidades\DadosProjeto.cs" />
+    <Compile Include="Entidades\Fichamento.cs" />
+    <Compile Include="Entidades\FormaDeEstudo.cs" />
+    <Compile Include="Entidades\Livro.cs" />
+    <Compile Include="Entidades\Modalidade.cs" />
+    <Compile Include="Entidades\Natureza.cs" />
+    <Compile Include="Entidades\Objeto.cs" />
+    <Compile Include="Entidades\Obra.cs" />
+    <Compile Include="Entidades\Projeto.cs" />
+    <Compile Include="Entidades\Tdm.cs" />
+    <Compile Include="FICHAMENTODataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FICHAMENTODataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastrarArtigo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastrarArtigo.Designer.cs">
+      <DependentUpon>frmCadastrarArtigo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastrarAutor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastrarAutor.Designer.cs">
+      <DependentUpon>frmCadastrarAutor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastrarCapitulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastrarCapitulo.Designer.cs">
+      <DependentUpon>frmCadastrarCapitulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastrarFichamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastrarFichamento.Designer.cs">
+      <DependentUpon>frmCadastrarFichamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastrarFormaDeEstudo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastrarFormaDeEstudo.Designer.cs">
+      <DependentUpon>frmCadastrarFormaDeEstudo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastrarLivro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastrarLivro.Designer.cs">
+      <DependentUpon>frmCadastrarLivro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastrarModalidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastrarModalidade.Designer.cs">
+      <DependentUpon>frmCadastrarModalidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastrarNatureza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastrarNatureza.Designer.cs">
+      <DependentUpon>frmCadastrarNatureza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastrarObjeto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastrarObjeto.Designer.cs">
+      <DependentUpon>frmCadastrarObjeto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastrarObra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastrarObra.Designer.cs">
+      <DependentUpon>frmCadastrarObra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastrarProjeto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastrarProjeto.Designer.cs">
+      <DependentUpon>frmCadastrarProjeto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastrarTDM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastrarTDM.Designer.cs">
+      <DependentUpon>frmCadastrarTDM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerificarAutor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerificarAutor.Designer.cs">
+      <DependentUpon>frmVerificarAutor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerificarFichamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerificarFichamento.Designer.cs">
+      <DependentUpon>frmVerificarFichamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerificarFormaDeEstudo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerificarFormaDeEstudo.Designer.cs">
+      <DependentUpon>frmVerificarFormaDeEstudo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerificarModalidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerificarModalidade.Designer.cs">
+      <DependentUpon>frmVerificarModalidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerificarNatureza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerificarNatureza.Designer.cs">
+      <DependentUpon>frmVerificarNatureza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerificarObjeto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerificarObjeto.Designer.cs">
+      <DependentUpon>frmVerificarObjeto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerificarObra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerificarObra.Designer.cs">
+      <DependentUpon>frmVerificarObra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerificarProjeto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerificarProjeto.Designer.cs">
+      <DependentUpon>frmVerificarProjeto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menuprincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menuprincipal.Designer.cs">
+      <DependentUpon>Menuprincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="models\OperacaoAutor.cs" />
+    <Compile Include="models\OperacaoFichamento.cs" />
+    <Compile Include="models\OperacaoFormaDeEstudo.cs" />
+    <Compile Include="models\OperacaoModalidade.cs" />
+    <Compile Include="models\OperacaoNatureza.cs" />
+    <Compile Include="models\OperacaoObjeto.cs" />
+    <Compile Include="models\OperacaoObra.cs" />
+    <Compile Include="models\OperacaoProjeto.cs" />
+    <Compile Include="models\Registro.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Singleton\Connection.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarArtigo.resx">
+      <DependentUpon>frmCadastrarArtigo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarAutor.resx">
+      <DependentUpon>frmCadastrarAutor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarCapitulo.resx">
+      <DependentUpon>frmCadastrarCapitulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarFichamento.resx">
+      <DependentUpon>frmCadastrarFichamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarFormaDeEstudo.resx">
+      <DependentUpon>frmCadastrarFormaDeEstudo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarLivro.resx">
+      <DependentUpon>frmCadastrarLivro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarModalidade.resx">
+      <DependentUpon>frmCadastrarModalidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarNatureza.resx">
+      <DependentUpon>frmCadastrarNatureza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarObjeto.resx">
+      <DependentUpon>frmCadastrarObjeto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarObra.resx">
+      <DependentUpon>frmCadastrarObra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarProjeto.resx">
+      <DependentUpon>frmCadastrarProjeto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarTDM.resx">
+      <DependentUpon>frmCadastrarTDM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerificarAutor.resx">
+      <DependentUpon>frmVerificarAutor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerificarFichamento.resx">
+      <DependentUpon>frmVerificarFichamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerificarFormaDeEstudo.resx">
+      <DependentUpon>frmVerificarFormaDeEstudo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerificarModalidade.resx">
+      <DependentUpon>frmVerificarModalidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerificarNatureza.resx">
+      <DependentUpon>frmVerificarNatureza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerificarObjeto.resx">
+      <DependentUpon>frmVerificarObjeto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerificarObra.resx">
+      <DependentUpon>frmVerificarObra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerificarProjeto.resx">
+      <DependentUpon>frmVerificarProjeto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menuprincipal.resx">
+      <DependentUpon>Menuprincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="FICHAMENTODataSet.xsc">
+      <DependentUpon>FICHAMENTODataSet.xsd</DependentUpon>
+    </None>
+    <None Include="FICHAMENTODataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>FICHAMENTODataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="FICHAMENTODataSet.xss">
+      <DependentUpon>FICHAMENTODataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inicio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inicial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fichamento.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\projeto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\autor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\limpar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pesquisar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadastro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancelar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\confirmar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adicionar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avancar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adicionar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menos1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

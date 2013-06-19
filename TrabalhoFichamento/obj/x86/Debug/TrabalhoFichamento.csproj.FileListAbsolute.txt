@@ -1,0 +1,281 @@
+c:\users\midori\documents\visual studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.exe
+c:\users\midori\documents\visual studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.pdb
+c:\users\midori\documents\visual studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\midori\documents\visual studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.Form1.resources
+c:\users\midori\documents\visual studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarObra.resources
+c:\users\midori\documents\visual studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarProjeto.resources
+c:\users\midori\documents\visual studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarProjeto.resources
+c:\users\midori\documents\visual studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmMenuPrincipal.resources
+c:\users\midori\documents\visual studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.Properties.Resources.resources
+c:\users\midori\documents\visual studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\midori\documents\visual studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\midori\documents\visual studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.exe
+c:\users\midori\documents\visual studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.pdb
+C:\Users\Midori\Documents\Visual Studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarModalidade.resources
+C:\Users\Midori\Documents\Visual Studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarObra.resources
+C:\Users\Midori\Documents\Visual Studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarFormaDeEstudo.resources
+C:\Users\Midori\Documents\Visual Studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarNatureza.resources
+C:\Users\Midori\Documents\Visual Studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarObjeto.resources
+C:\Users\Midori\Documents\Visual Studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarLivro.resources
+C:\Users\Midori\Documents\Visual Studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarTDM.resources
+C:\Users\Midori\Documents\Visual Studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarArtigo.resources
+C:\Users\Midori\Documents\Visual Studio 2010\Projects\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarCapitulo.resources
+H:\TESTE c#\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.exe
+H:\TESTE c#\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.pdb
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.exe.config
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.exe
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.pdb
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.exe
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.pdb
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.Form1.resources
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarArtigo.resources
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarCapitulo.resources
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarLivro.resources
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarObra.resources
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarProjeto.resources
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarTDM.resources
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarFormaDeEstudo.resources
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarModalidade.resources
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarNatureza.resources
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarObjeto.resources
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarObra.resources
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarProjeto.resources
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmMenuPrincipal.resources
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.Properties.Resources.resources
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarFichamento.resources
+C:\Users\aragorn\Desktop\TrabalhoFichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarFichamento.resources
+K:\TESTE c#\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.exe.config
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.exe
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.pdb
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.Form1.resources
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarArtigo.resources
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarCapitulo.resources
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarFichamento.resources
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarLivro.resources
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarObra.resources
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarProjeto.resources
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarTDM.resources
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarFichamento.resources
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarFormaDeEstudo.resources
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarModalidade.resources
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarNatureza.resources
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarObjeto.resources
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarObra.resources
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarProjeto.resources
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmMenuPrincipal.resources
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\TESTE c#\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.exe
+K:\TESTE c#\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.pdb
+K:\TESTE c#\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.Properties.Resources.resources
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.exe.config
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.exe
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.pdb
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.exe
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.pdb
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.Form1.resources
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarArtigo.resources
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarCapitulo.resources
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarFichamento.resources
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarLivro.resources
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarObra.resources
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarProjeto.resources
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarTDM.resources
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarFichamento.resources
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarFormaDeEstudo.resources
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarModalidade.resources
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarNatureza.resources
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarObjeto.resources
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarObra.resources
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarProjeto.resources
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmMenuPrincipal.resources
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.Properties.Resources.resources
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarAutor.resources
+C:\Users\Midori\Desktop\c# atual\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarAutor.resources
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.exe.config
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.exe
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.pdb
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.exe
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.pdb
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.Form1.resources
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarArtigo.resources
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarAutor.resources
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarCapitulo.resources
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarFichamento.resources
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarLivro.resources
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarObra.resources
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarProjeto.resources
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarTDM.resources
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarAutor.resources
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarFichamento.resources
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarFormaDeEstudo.resources
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarModalidade.resources
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarNatureza.resources
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarObjeto.resources
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarObra.resources
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarProjeto.resources
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmMenuPrincipal.resources
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.Properties.Resources.resources
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\aragorn\Desktop\visual_studio_2010_projects\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.exe.config
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.exe
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.pdb
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.exe
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.pdb
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.Form1.resources
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarArtigo.resources
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarAutor.resources
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarCapitulo.resources
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarFichamento.resources
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarLivro.resources
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarObra.resources
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarProjeto.resources
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarTDM.resources
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarAutor.resources
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarFichamento.resources
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarFormaDeEstudo.resources
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarModalidade.resources
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarNatureza.resources
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarObjeto.resources
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarObra.resources
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarProjeto.resources
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmMenuPrincipal.resources
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.Properties.Resources.resources
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Computador\Downloads\fichamentosss\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.exe.config
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.exe
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.pdb
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.Form1.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarArtigo.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarAutor.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarCapitulo.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarFichamento.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarLivro.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarObra.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarProjeto.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarTDM.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarAutor.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarFichamento.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarFormaDeEstudo.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarModalidade.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarNatureza.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarObjeto.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarObra.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarProjeto.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmMenuPrincipal.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.Properties.Resources.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.exe
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.pdb
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.exe.config
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.exe
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.pdb
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.csprojResolveAssemblyReference.cache
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.Form1.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarArtigo.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarAutor.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarCapitulo.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarFichamento.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarFormaDeEstudo.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarLivro.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarModalidade.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarNatureza.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarObjeto.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarObra.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarProjeto.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarTDM.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarAutor.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarFichamento.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarFormaDeEstudo.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarModalidade.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarNatureza.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarObjeto.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarObra.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarProjeto.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmMenuPrincipal.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.Properties.Resources.resources
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.csproj.GenerateResource.Cache
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.exe
+C:\Users\Erika\Desktop\fichamentosss\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.pdb
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.exe.config
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.exe
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.pdb
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.exe
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.pdb
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.Form1.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarArtigo.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarAutor.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarCapitulo.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarFichamento.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarFormaDeEstudo.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarLivro.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarModalidade.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarNatureza.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarObjeto.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarObra.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarProjeto.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarTDM.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarAutor.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarFichamento.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarFormaDeEstudo.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarModalidade.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarNatureza.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarObjeto.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarObra.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarProjeto.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmMenuPrincipal.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.Properties.Resources.resources
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\aragorn\Desktop\new\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Erika\Downloads\fichamentosss\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.exe.config
+C:\Users\Erika\Downloads\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.exe
+C:\Users\Erika\Downloads\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.pdb
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarFormaDeEstudo.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarModalidade.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarNatureza.resources
+C:\Users\Midori\Desktop\c# atual\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarObjeto.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.exe.config
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.exe
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.pdb
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.Form1.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarArtigo.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarAutor.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarCapitulo.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarFichamento.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarFormaDeEstudo.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarLivro.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarModalidade.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarNatureza.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarObjeto.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarObra.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarProjeto.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmCadastrarTDM.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarAutor.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarFichamento.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarFormaDeEstudo.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarModalidade.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarNatureza.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarObjeto.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarObra.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmVerificarProjeto.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.frmMenuPrincipal.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\TrabalhoFichamento.Properties.Resources.resources
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.exe
+C:\Users\Computador\Downloads\Trabalho Atualizado\fichamentosss\fichamento\TrabalhoFichamento\bin\Debug\TrabalhoFichamento.pdb
