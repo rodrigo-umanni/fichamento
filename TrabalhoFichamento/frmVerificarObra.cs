@@ -220,7 +220,7 @@ namespace TrabalhoFichamento
             ComboBox c = comboBoxCurso;
             c.DataSource = lista;
             c.DisplayMember = "curso";
-            //c.ValueMember = "obra_id_obra";
+            c.ValueMember = "obra_id_obra";
         }
     }
 }
